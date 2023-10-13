@@ -38,7 +38,7 @@ function App() {
   },[password])
 
   return (
-    <div className=" w-full flex text-center justify-center">
+    <div className="flex h-screen items-center justify-center">
       
       <div className="w-full max-w-md mx-auto shadow-md rounded-lg px-4 py-3 my-7 bg-gray-800 text-orange-500">
         <h1 className="text-white text-3xl text-center my-3">Password Generator</h1>
